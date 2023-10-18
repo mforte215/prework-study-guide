@@ -13,7 +13,7 @@ This Prework study guide serves as a short lesson on some background information
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
